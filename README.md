@@ -1,4 +1,4 @@
-# Prometheus 
+# Prometheus (Alerting) Rules ❤️Grafana
 
 Visualization of Prometheus [rules](https://prometheus.io/docs/prometheus/latest/querying/api/#rules) and [alerts](https://prometheus.io/docs/prometheus/latest/querying/api/#alerts) API. 
 
